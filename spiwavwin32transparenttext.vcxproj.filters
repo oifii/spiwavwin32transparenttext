@@ -22,6 +22,7 @@
     <None Include="spiwavwin32transparenttext.ico">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="spi.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
